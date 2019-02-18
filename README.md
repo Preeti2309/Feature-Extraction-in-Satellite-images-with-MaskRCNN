@@ -15,3 +15,16 @@ The repository includes:
     Evaluation on MS COCO metrics (AP)
     Example of training on your own dataset
 
+
+Getting Started
+Problem Statement 
+
+In machine learning, pattern recognition and in image processing, feature extraction starts from an initial set of measured data and builds derived values (features) intended to be informative and non-redundant, facilitating the subsequentlearning and generalization steps, and in some cases leading to better human interpretations. Feature extraction is related to dimensionality reduction.There is a tremendous need to extract features from satellite images such that manual work of detailing features in it is simplified. Algorithms has to be implemented in order to train the machines for feature extraction. It also reduces the time taken than in
+manually extracting.
+This Project helps to extract features of water bodies from a satellite image
+with instance segmentation using MASK RCNN. The Neural Network is trained
+with pre-annotated set of training-set images taken from a large dataset. Once
+trained, any set of test images provided, the neural network must be able to extract
+water body.
+1
+
