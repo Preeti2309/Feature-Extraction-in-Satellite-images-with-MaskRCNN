@@ -26,5 +26,5 @@ with instance segmentation using MASK RCNN. The Neural Network is trained
 with pre-annotated set of training-set images taken from a large dataset. Once
 trained, any set of test images provided, the neural network must be able to extract
 water body.
-1
+
 
